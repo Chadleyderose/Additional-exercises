@@ -30,4 +30,8 @@ btn_result=Entry (root, bg ="green2" ,)
 btn_result.pack()
 btn_result.place(x =200 , y =250 )
 
+btn_clear =Button(root, text ="clear")
+btn_clear .pack()
+btn_clear .place(x = 100 , y =300 )
+
 root.mainloop()
