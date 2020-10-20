@@ -1,0 +1,40 @@
+#container{
+    display:flex;
+    padding: 8px;
+    background-color: blue;
+    border: 2px solid;
+    justify-content: space-between;
+}   
+
+.box1{
+  flex: 1;
+  border: 2px solid;
+  justify-content: space-between;
+  background-color: #fc802e;
+  align-content: flex-end;
+  font-family: 'Times New Roman';
+  font-size: larger;
+}
+
+
+
+.box2{
+    flex: 1;
+    border: 2px solid;
+    justify-content: space-between;
+    background-color: rgb(57, 255, 57);
+    font-family: 'Times New Roman';
+    font-size: larger;
+}
+
+
+.box3{
+    flex: 1;
+    border: 2px solid;
+    justify-content: space-between;
+    background-color: blueviolet;
+    font-family: 'Times New Roman';
+    font-size: larger;
+}
+ 
+ 
